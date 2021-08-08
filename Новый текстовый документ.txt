@@ -1,5 +1,5 @@
 pubic void Get(){
-	var w = GetObject();
+	another code adding
 }
 
 some Functions
