@@ -1,0 +1,5 @@
+pubic void Get(){
+	var w = GetObject();
+}
+
+some Functions
